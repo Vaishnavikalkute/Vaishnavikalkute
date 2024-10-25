@@ -85,7 +85,7 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in python** 
 
 ```text
 C++                      19 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
