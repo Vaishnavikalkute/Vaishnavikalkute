@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center">Hey👋 , I am  Vaishnavi <img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/></h1>
+<h1 align="center">Hey👋 , I am  Vaishnavi </h1>
 
 <!-- <p align="center"><a href="https://Vaishnavikalkute.github.io"><img width="80%" alt="Hello, I'm Vaishnavi. I do open source!" src="./assets/header-img.png" /></a></p> -->
 
