@@ -49,7 +49,7 @@
 
 ## 🔥 Streak stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Vaishnavikalkute)](https://git.io/streak-stats)
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="V's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Vaishnavikalkute&theme=monokai-metallian&hide_border=true"/>
