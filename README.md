@@ -65,7 +65,6 @@
 
 ## 📊 Github stats
 
-<!-- https://github.com/anuraghazra/github-readme-stats -->
 
   
   <br/>
