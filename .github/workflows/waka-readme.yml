@@ -24,7 +24,7 @@ jobs:
           SHOW_TOTAL: true # optional
           SHOW_MASKED_TIME: false # optional
           STOP_AT_OTHER: true # optional
-          IGNORED_LANGUAGES: YAML JSON TOML TEXT # optional
+          IGNORED_LANGUAGES: YAML JSON TOML Text Git Config Markdown # optional
           SHOW_TIMELINE: true
           SHOW_LINES_OF_CODE: true
           SHOW_COMMIT: false
