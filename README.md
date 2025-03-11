@@ -61,6 +61,11 @@
 [![An image of @Vaishnavikalkute's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/Vaishnavikalkute)](https://holopin.io/@Vaishnavikalkute)
 
 <!--START_SECTION:waka-->
+
+```txt
+JavaScript   1 hr 30 mins    █████████████████████████   100.00 %
+```
+
 <!--END_SECTION:waka-->
 
 ## 📊 Github stats
