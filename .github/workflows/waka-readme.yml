@@ -14,11 +14,22 @@ jobs:
     steps:
       - uses: athul/waka-readme@master # this action name
         with:
-          SHOW_TIMELINE: false
+          SHOW_TITLE: true # optional
+          SECTION_NAME: waka # optional
+          BLOCKS: -> # optional
+          CODE_LANG: rust # optional
+          TIME_RANGE: all_time # optional
+          LANG_COUNT: 10 # optional
+          SHOW_TIME: true # optional
+          SHOW_TOTAL: true # optional
+          SHOW_MASKED_TIME: false # optional
+          STOP_AT_OTHER: true # optional
+          IGNORED_LANGUAGES: YAML JSON TOML TEXT # optional
+          SHOW_TIMELINE: true
           SHOW_LINES_OF_CODE: true
           SHOW_COMMIT: false
           SHOW_DAYS_OF_WEEK: false
           SHOW_PROFILE_VIEWS: false
           SHOW_SHORT_INFO: false
-          SHOW_LOC_CHART: false
+          SHOW_LOC_CHART: true
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
