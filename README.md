@@ -70,10 +70,8 @@ Total Time: 7 hrs 20 mins
 
 JavaScript   4 hrs 13 mins   >>>>>>>>>>>>>>-----------   57.49 %
 Python       2 hrs 28 mins   >>>>>>>>-----------------   33.65 %
-Markdown     8 mins          -------------------------   01.96 %
 Bash         2 mins          -------------------------   00.51 %
 Git Config   1 min           -------------------------   00.24 %
-Text         0 secs          -------------------------   00.07 %
 ```
 
 <!--END_SECTION:waka-->
