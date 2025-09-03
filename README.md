@@ -64,13 +64,13 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 26 February 2025 - To: 31 August 2025
+From: 26 February 2025 - To: 01 September 2025
 
-Total Time: 160 hrs 12 mins
+Total Time: 160 hrs 24 mins
 
-Python       83 hrs 35 mins  >>>>>>>>>>>>-------------   49.49 %
-JavaScript   12 hrs 56 mins  >>-----------------------   07.66 %
-Other        8 hrs 41 mins   >------------------------   05.15 %
+Python       83 hrs 46 mins  >>>>>>>>>>>>-------------   49.54 %
+JavaScript   12 hrs 56 mins  >>-----------------------   07.65 %
+Other        8 hrs 41 mins   >------------------------   05.14 %
 ```
 
 <!--END_SECTION:waka-->
