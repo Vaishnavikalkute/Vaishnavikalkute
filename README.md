@@ -49,7 +49,7 @@ vaishnavi = {
 <!--START_SECTION:waka-->
 
 ```rust
-From: 26 February 2025 - To: 25 April 2026
+From: 26 February 2025 - To: 26 April 2026
 
 Total Time: 279 hrs 31 mins
 
