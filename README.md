@@ -26,7 +26,7 @@ vaishnavi = {
 **Backend:** FastAPI • Flask • Python • RESTful APIs  
 **Frontend:** Vue.js • React • JavaScript  
 **AI/ML:** TensorFlow • scikit-learn • BERT • LLMs  
-**Cloud & DevOps:** AWS • Docker • Lambda  
+**Cloud & DevOps:** AWS • Docker   
 **Databases:** PostgreSQL • Redis • Elasticsearch
 
 ---
