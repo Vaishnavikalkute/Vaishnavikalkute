@@ -49,13 +49,13 @@ vaishnavi = {
 <!--START_SECTION:waka-->
 
 ```rust
-From: 26 February 2025 - To: 23 September 2026
+From: 26 February 2025 - To: 24 September 2026
 
 Total Time: 304 hrs 24 mins
 
-Python                     174 hrs 15 mins       >>>>>>>>>>>>>>-----------   54.96 %
-JavaScript                 28 hrs 56 mins        >>-----------------------   09.13 %
-Other                      12 hrs 38 mins        >------------------------   03.99 %
+Python                     174 hrs 15 mins       >>>>>>>>>>>>>>-----------   54.93 %
+JavaScript                 28 hrs 56 mins        >>-----------------------   09.12 %
+Other                      12 hrs 50 mins        >------------------------   04.05 %
 ```
 
 <!--END_SECTION:waka-->
